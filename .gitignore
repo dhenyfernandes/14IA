@@ -2,3 +2,4 @@
 calc.py
 .ipynb_checkpoints
 .ipynb_checkpoints/*
+**/*.ini
